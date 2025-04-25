@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **my own projects for learning**
 
-- 🌱 I’m currently learning **Django,Data Visualization,Machine Learning/AI**
+- 🌱 I’m currently learning **Django,Data Visualization,Machine Learning/AI, Linux and System Admin**
 
-- 👯 I’m looking to collaborate on **more projects realting to data analysis, ML/AI**
+- 👯 I’m looking to collaborate on **more projects realting to data analysis, ML/AI, BAsh Scripting**
 
-- 💬 Ask me about **comic books, movies and**
+- 💬 Ask me about **Linux, Python, Accounting!!**
 
 - 📫 How to reach me **jessechomba2@gmail.com**
 
