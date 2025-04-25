@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **my own projects for learning**
 
-- 🌱 I’m currently learning **Django,Data Visualization,**
+- 🌱 I’m currently learning **Django,Data Visualization,Machine Learning/AI**
 
-- 👯 I’m looking to collaborate on **more projects with teams and other developers**
+- 👯 I’m looking to collaborate on **more projects realting to data analysis, ML/AI**
 
 - 💬 Ask me about **comic books, movies and**
 
 - 📫 How to reach me **jessechomba2@gmail.com**
 
-- ⚡ Fun fact **I love comic books**
+- ⚡ Fun fact ** I love F1,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
