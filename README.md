@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesse Chomba</h1>
-<h3 align="center">A passionate developer from Kenya</h3>
+<h3 align="center">An upcoming developer from Kenya</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessechomba" alt="jessechomba" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jessechomba2@gmail.com**
 
-- ⚡ Fun fact ** Redbull Racing has had more wins that Scuderia Ferrari since its founding in 2005**
+- ⚡ Fun fact ** Redbull Racing has had more wins than Scuderia Ferrari since its founding in 2005**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
