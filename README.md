@@ -3,21 +3,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessechomba" alt="jessechomba" /></a> </p>
 
-- 🔭 I’m currently working on **my own projects for learning**
+- 🔭 I’m currently working on **Learning Data Science/Backend development**
 
-- 🌱 I’m currently learning **Django,Data Visualization,Machine Learning/AI, Linux and System Admin and java Springboot**
+- 🌱 I’m currently learning **Django,Data Visualization,Machine Learning/AI, Linux and System Admin and Java+Springboot**
 
-- 👯 I’m looking to collaborate on **more projects realting to data analysis, ML/AI, BAsh Scripting**
+- 👯 I’m looking to collaborate on **Projects relating to data analysis, ML/AI, & Java+SpringBoot**
 
-- 💬 Ask me about **Linux, Python, Accounting!!**
+- 💬 Ask me about **Linux, Python, Accounting🤡,Narnia**
 
 - 📫 How to reach me **jessechomba2@gmail.com**
 
-- ⚡ Fun fact ** I love F1,**
+- ⚡ Fun fact ** Redbull Racing has had more wins that Scuderia Ferrari since its founding in 2005**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chombajesse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chombajesse" height="30" width="40" /></a>
+<a href="https://X.com/chombajesse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chombajesse" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jessechomba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessechomba" height="30" width="40" /></a>
 </p>
 
